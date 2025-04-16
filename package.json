@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "npm install --legacy-peer-deps && vercel build",
-    "vercel-build": "vercel build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
