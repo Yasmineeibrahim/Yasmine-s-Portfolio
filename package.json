@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "npm install --legacy-peer-deps && vercel build",
+    "vercel-build": "vercel build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -39,6 +40,7 @@
     "globals": "^15.15.0",
     "postcss": "^8.5.3",
     "tailwindcss": "^3.4.17",
+    "vercel": "^41.6.1",
     "vite": "^6.2.0"
   }
 }
