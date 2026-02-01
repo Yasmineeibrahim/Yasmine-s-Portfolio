@@ -26,11 +26,11 @@ const About = () => {
     </motion.div>
 
     <motion.p variants={fadeIn("","",0.1,1)} className="mt-4 text-black-200 text-[17px] max-w-5xl leading-[30px]">
-    Hey! I’m Yasmine, a front-end developer with a passion for building web and Android apps that are both functional and visually appealing. I also specialize in UI/UX design, ensuring every project delivers a smooth and intuitive user experience.
+    Hi! I’m Yasmine, a Computer Engineer and Front-End / Mobile Developer who loves building clean, intuitive, and visually engaging digital experiences. I specialize in turning ideas into polished web and Android applications that are both functional and enjoyable to use.
 
-I’ve worked on a variety of projects, including a hotel website, a gold bidding platform, a NewsPulse app, and a habit tracker. Whether it’s a website or a mobile app, I love turning ideas into polished, user-friendly products. With expertise in all aspects of front-end development, I focus on writing clean code and creating seamless digital experiences.
+I’ve worked on a wide range of projects, from full-stack employee management systems and risk management platforms to AI-powered Android apps like an OCR-based note-taking app and a habit tracking application built with Jetpack Compose. My experience spans React.js, Kotlin, Jetpack Compose, REST APIs, Firebase, SQL/NoSQL databases, and secure authentication systems.
 
-Always up for a challenge, I’m excited to collaborate and bring fresh ideas to life.
+What drives me most is crafting seamless user experiences—whether that’s designing smooth UI flows, optimizing performance, or building scalable architectures behind the scenes. I enjoy tackling complex problems, learning new technologies, and collaborating on projects that push creativity and innovation forward.
     </motion.p>
 
     <div className="flex flex-wrap gap-10 mt-20">
