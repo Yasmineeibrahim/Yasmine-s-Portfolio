@@ -28,6 +28,13 @@ import flower1 from "./company/flower1.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import pgc from "./pgc.png";
+import riskly from "./riskly.png";
+import trace from "./trace.png";
+import sams from "./sams.png";
+import elevate from "./elevate.png";
+import Nextkey from "./NEXTKEY-UI.png";
+
 
 export {
   logo,
@@ -43,6 +50,7 @@ export {
   figma,
   git,
   html,
+  sams,
   flower1,
   javascript,
   mongodb,
@@ -57,5 +65,11 @@ export {
   tesla,
   carrent,
   jobit,
+  trace,
+  Nextkey,
   tripguide,
+  pgc,
+  elevate,
+  riskly,
 };
+

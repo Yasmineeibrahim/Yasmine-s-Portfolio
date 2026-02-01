@@ -23,6 +23,12 @@ import {
     jobit,
     tripguide,
     threejs,
+    pgc,
+    riskly,
+    trace,
+    elevate,
+    Nextkey,
+    sams,
   } from "../assets";
   
   export const navLinks = [
@@ -244,7 +250,7 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: jobit,
+      image: pgc,
       source_code_link: "https://github.com/",
     },
     {
@@ -277,7 +283,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: riskly,
       source_code_link: "https://github.com/",
     },
     {
@@ -310,7 +316,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: sams,
       source_code_link: "https://github.com/",
     },
      {
@@ -351,7 +357,7 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: jobit,
+      image: trace,
       source_code_link: "https://github.com/",
     },
     {
@@ -384,7 +390,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: elevate,
       source_code_link: "https://github.com/",
     },
     {
@@ -433,6 +439,19 @@ import {
       },
     ],
     image: carrent,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Hotel Booking Mobile Application",
+    description:
+      "A user-centered mobile UI/UX design project focused on creating a smooth hotel discovery, booking, and payment experience.",
+    tags: [
+      {
+        name: "Figma",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: Nextkey,
     source_code_link: "https://github.com/",
   },
   ];
