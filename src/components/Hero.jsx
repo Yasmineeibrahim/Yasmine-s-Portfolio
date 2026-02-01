@@ -14,7 +14,7 @@ const Hero = () => {
             Hi, I&apos;m <span className="text-[#e4c258]" style={{ fontFamily:"Meddon", fontWeight:"bold"}}>Yasmine</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-black-100`}>
-            A passionate full stack android & <br className='sm:block hidden'/> web applications developer.
+            A passionate full stack Cross-platform, Android Native & <br className='sm:block hidden'/> web applications developer.
             </p>
         </div>
         </div>  
