@@ -109,60 +109,85 @@ import {
   
   const experiences = [
     {
-      title: "MERN Developer",
-      company_name: "Freelancer",
+      title: "Full-Stack Web Developer",
+      company_name: "Prompt General Contracting – Abu Dhabi",
       icon: flower1,
       iconBg: "#e4c258",
-      date: "November 2024 - February 2025",
+      date: "Aug 2025 – Present",
       points: [
-        "Developing and maintaining a gold bidding web application using the MERN stack (MongoDB, Express.js, React.js, and Node.js).",
-        "Collaborating with cross-functional teams including UI/UX designers, product managers, and backend developers to build seamless bidding experiences.",
-        "Implementing responsive and user-friendly interfaces while ensuring cross-browser and device compatibility.",
-        "Writing clean, maintainable code and participating in code reviews to uphold quality and performance standards.",
+        "Collaborated closely with stakeholders and internal teams to design and develop a full-stack employee HR portal handling leave requests, salary certificates, insurance, and visa workflows.",
+
+"Built and maintained RESTful APIs using Node.js and Express.js with JWT-based authentication and role-based approval workflows.",
+
+"Designed and managed relational SQL database schemas to track employee records, requests, approvals, and request lifecycle states.",
+
+"Developed a responsive React.js frontend focused on usability, clarity, and real-time request status updates.",
+
+"Handled deployment on a Linux-based production server, including environment configuration, database updates, performance optimization, and ongoing maintenance.",
+
+"Continuously improved system reliability by debugging issues, optimizing queries, and enhancing overall user experience.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Freelancer",
+      title: "Software Development Intern",
+      company_name: "Exceed IT Services – Abu Dhabi",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Present",
+      date: "Aug 2025 – Sep 2025",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+       "Worked collaboratively on multiple web and mobile application projects, contributing across frontend, backend, and database layers.",
+
+"Developed backend services using Node.js and Express.js, implementing RESTful APIs, JWT-based authentication, and role-based access control.",
+
+"Designed and managed MongoDB and MySQL databases, including schema design, data modeling, and CRUD operations.",
+
+"Built analytics dashboards and data visualizations to support business insights and decision-making.",
+
+"Participated in Android application development using Kotlin and Jetpack Compose, integrating Firebase authentication, cloud synchronization, and OCR functionality.",
+
+"Assisted in integrating data analysis and machine learning components into web and Android applications to enhance application intelligence.",
       ],
     },
     {
-      title: "UI/UX Designer",
-      company_name: "Freelancer",
+      title: "Android Mobile Application Developer",
+      company_name: "Digital Egypt Pioneers Initiative (DEPI)",
       icon: flower1,
       iconBg: "#e4c258",
       date: "Jan 2023 - Present",
       points: [
-        "Designed intuitive and visually appealing interfaces for a habit tracking app focused on user motivation and daily goal setting.",
-        "Created user-centered designs for a news app, prioritizing readability, accessibility, and smooth content navigation.",
-        "Conducted user research, wireframing, and prototyping to validate design concepts and improve user experience.",
-        "Collaborated closely with developers to ensure accurate implementation of designs and responsive behavior across devices.",
-        "Utilized tools like Figma and Adobe XD to deliver high-fidelity mockups and interactive prototypes.",
+        "Completed a 6-month intensive, hands-on training program focused on native Android development using Kotlin and modern Android tools.",
+
+"Developed Android applications using Jetpack Compose, handling UI state management, navigation, recomposition, and lifecycle-aware components.",
+
+"Applied MVVM architecture and Repository pattern to build modular, scalable, and maintainable codebases.",
+
+"Integrated Firebase services including authentication, cloud data storage, and real-time synchronization with offline persistence.",
+
+"Implemented notifications, background tasks, coroutines, and Kotlin Flows to build responsive and efficient mobile applications.",
+
+"Applied best practices in localization, accessibility, performance optimization, and scalable mobile app design.",
       ],
     },
+
     {
-      title: "Android Developer",
-      company_name: "DEPI Technologies",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      title: "Hotel Booking Mobile Application UI/UX Designer",
+      company_name: "Freelancer",
+      icon: flower1,
+      iconBg: "#e4c258",
+      date: "May 2024 - July 2024",
       points: [
-        "Designing and developing Android applications using Kotlin, adhering to modern development standards and best practices.",
-        "Currently working on a habit tracking app with features like streak tracking, daily reminders, and progress visualization to enhance user motivation.",
-        "Developed a fully functional news app integrating RESTful APIs for real-time content delivery, category-based filtering, and offline access using Room database.",
-        "Collaborated with UI/UX designers to build user-friendly and visually consistent interfaces across different screen sizes and resolutions.",
-        "Utilized libraries such as Retrofit, Glide, and Jetpack components to streamline development and enhance app performance.",
-        "Conducted thorough testing and performance optimization to ensure smooth user experiences and broad device compatibility.",
+        "Collaborated with stakeholders to design an intuitive hotel booking experience focused on seamless room discovery, booking, and payment flows.",
+
+"Created user-centered wireframes and high-fidelity UI prototypes with strong emphasis on usability and visual hierarchy.",
+
+"Applied UX research principles to improve navigation clarity, reduce friction, and enhance user satisfaction.",
+
+"Ensured responsive and consistent UI design across different screen sizes and device types.",
+
+"Worked closely with developers to ensure accurate design handoff and faithful implementation.",
       ],
     },
+    
   ];
   
   const testimonials = [
