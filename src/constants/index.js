@@ -241,7 +241,7 @@ import {
         },
         {
           name: "Linux Server Deployment",
-          color: "blue-text-gradient",
+          color: "green-text-gradient",
         },
       ],
       image: jobit,
@@ -270,11 +270,11 @@ import {
         },
         {
           name: "RESTful APIs",
-          color: "blue-text-gradient",
+          color: "green-text-gradient",
         },
         {
           name: "Machine Learning Integration",
-          color: "blue-text-gradient",
+          color: "pink-text-gradient",
         },
       ],
       image: jobit,
@@ -303,11 +303,85 @@ import {
         },
         {
           name: "RESTful APIs",
-          color: "blue-text-gradient",
+          color: "green-text-gradient",
         },
         {
           name: "Chart.js",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/",
+    },
+     {
+      name: "TraceNotes",
+      description:
+        "An Android application that combines OCR, AI-powered text summarization, and cloud synchronization to help users capture, organize, and understand their notes efficiently.",
+      tags: [
+        {
+          name: "Kotlin",
           color: "blue-text-gradient",
+        },
+        {
+          name: "Jetpack Compose",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Firebase Auth",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Firebase Firestore",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tesseract OCR",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Flask",
+          color: "pink-text-gradient",
+        },
+                {
+          name: "Jetpack Compose",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "T5 Transformer",
+          color: "green-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Elevate",
+      description:
+        "A modern habit tracking Android app that helps users build consistent routines through habit creation, notifications, streak tracking, and bilingual support.",
+      tags: [
+        {
+          name: "Kotlin",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Jetpack Compose",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Firebase Auth",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Firebase Firestore",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Notifications API",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Localization",
+          color: "pink-text-gradient",
         },
       ],
       image: jobit,
