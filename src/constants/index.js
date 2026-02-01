@@ -218,6 +218,101 @@ import {
   ];
   
   const projects = [
+     {
+      name: "PGC HR Portal",
+      description:
+        "A full-stack employee management platform supporting leave requests, salary certificates, insurance, and visa workflows with multi-level approvals and real-time status tracking.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Node.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "MySQL",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "JWT Authentication",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Linux Server Deployment",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Riskly",
+      description:
+        "A backend-driven risk management system focused on secure advisor authentication,and predicting the student dropout or fail risk based on machine learning analytics,  automated email alerts for high-risk cases,creating and exporting advisor students pdf reports.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Node.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "MySQL",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "JWT Authentication",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "RESTful APIs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Machine Learning Integration",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "SAMS",
+      description:
+        "A web-based academic management and analytics platform for tracking students, teachers, courses, and performance metrics with interactive data visualizations.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Node.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "MongoDB",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Mongoose",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "RESTful APIs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Chart.js",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/",
+    },
     {
       name: "NewsPulse Application",
       description:
@@ -244,6 +339,7 @@ import {
       image: jobit,
       source_code_link: "https://github.com/",
     },
+    
     {
     name: "Hotel Booking Website",
     description:
